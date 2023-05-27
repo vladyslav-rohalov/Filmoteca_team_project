@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vladyslav-rohalov.github.io/filmoteca",
+  "homepage": "https://vladyslav-rohalov.github.io/filmoteca/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteca/"
