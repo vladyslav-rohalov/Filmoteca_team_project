@@ -12,7 +12,7 @@
     "url": "git+https://github.com/vladyslav-rohalov/filmoteca.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Vladyslav Rohalov",
   "license": "ISC",
   "dependencies": {
     "firebase": "^9.16.0",
